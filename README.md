@@ -5,4 +5,8 @@
 >(a)Extract_From_GOA.py  
 >(b)Generate_GO_Terms.py  
 >(c)Complementary_All_Term.py  
->(d)Find_Parents.py   
+>(d)Find_Parents.py
+>
+<b>[4] Total the number of all proteins for MF, BP,and CC aspects:
+>Total_Protein_Number.py
+>
