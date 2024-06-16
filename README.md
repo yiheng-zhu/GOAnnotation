@@ -16,3 +16,7 @@
 <b>[6] Create training dataset, validation dataset, and test dataset using the deposition date:
 > Extract_Sequence_By_Date.py
 > 
+<b>[7] Remove homology sequences using CD-HIT software among training, validation, and test datasets.  
+
+<b>[8] Create the corresonding labels and names for each dataset:
+>(a) Extract_protein_list_from_sequence.py
