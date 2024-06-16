@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
     dir=sys.argv[1]
     type_list=["MF", "BP", "CC"]
-    term_cutoff_list=[10, 0, 0]
+    term_cutoff_list=[0, 0, 0]
 
     for i in range(len(term_cutoff_list)):
         labelfile = dir + "/"  + type_list[i] + "/train_gene_label"
