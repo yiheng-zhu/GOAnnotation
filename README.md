@@ -10,6 +10,9 @@
 <b>[4] Total the number of all proteins for MF, BP, and CC aspects:
 >Total_Protein_Number.py
 >
-<b>[5] Download protein sequences with information from UniProt database
+<b>[5] Download protein sequences with information from UniProt database:
 > download_sequence_uniprot.py
+> 
+<b>[6] Create training dataset, validation dataset, and test dataset using the deposition date:
+> Extract_Sequence_By_Date.py
 > 
