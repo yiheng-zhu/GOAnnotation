@@ -20,5 +20,5 @@
 
 <b>[8] Create the corresonding labels and names for each dataset:
 >(a) Extract_protein_list_from_sequence.py  
->(b) Create_Term_Set.py
+>(b) Create_Term_Set.py  
 >(c) Create_Label_Set.py  
