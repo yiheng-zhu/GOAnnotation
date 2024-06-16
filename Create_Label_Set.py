@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
     dir=sys.argv[1]
 
-    type_list=["MF"]
+    type_list=["MF", "BP", "CC"]
 
     for type in type_list:
 
