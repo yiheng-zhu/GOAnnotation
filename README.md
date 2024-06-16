@@ -10,3 +10,6 @@
 <b>[4] Total the number of all proteins for MF, BP, and CC aspects:
 >Total_Protein_Number.py
 >
+<b>[5] Download protein sequences with information from UniProt database
+> download_sequence_uniprot.py
+> 
